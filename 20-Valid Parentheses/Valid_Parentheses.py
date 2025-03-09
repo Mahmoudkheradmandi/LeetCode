@@ -22,4 +22,4 @@ def isValid(s):
     if len(stack):
         return False
     return True
-                
+                 

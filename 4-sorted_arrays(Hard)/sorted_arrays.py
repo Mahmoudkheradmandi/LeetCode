@@ -1,3 +1,4 @@
+
 def findMedianSortedArrays(nums1, nums2):
     # طول آرایه‌ها را محاسبه می‌کنیم
     n1 = len(nums1)
